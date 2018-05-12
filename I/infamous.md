@@ -43,6 +43,7 @@ The 2008 Sichuan earthquake became even more **infamous** for exposing the cheap
   > **celebrated** /ˈsɛlɪbreɪtɪd/ adj. <br> greatly admired; **renowned**: 
   >
   > - *Van Gogh, perhaps Holland's most celebrated artist, died in poverty.* 
+  > -  Martin Luther King Jr. gave his celebrated speech before the Lincoln Memorial in 1963.
   >
   > ---
   >
