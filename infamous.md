@@ -14,7 +14,11 @@ The 2008 Sichuan earthquake became even more **infamous** for exposing the cheap
 
 - *However, it is those same **traits** that have made her famous and infamous in equal measure.* 
 
-  > **trait** /treɪ/ /treɪt/ n. <br> a distinguishing quality or characteristic, typically one belonging to a person: <br>  - *One of her brother's more admirable personality traits was his general lack of prejudice.* <br>  - *But they all share a common trait — frustration at the obstacles put in the way of progress.* <br>  - *Lying is one of the most human of traits that really distinguishes us from the rest of the animal world.*
+  > **trait** /treɪ/ /treɪt/ n. <br> a distinguishing quality or characteristic, typically one belonging to a person: 
+  >
+  > - *One of her brother's more admirable personality traits was his general lack of prejudice.* 
+  > - *But they all share a common trait — frustration at the obstacles put in the way of progress.* 
+  > - *Lying is one of the most human of traits that really distinguishes us from the rest of the animal world.*
 
 ---
 
@@ -36,9 +40,15 @@ The 2008 Sichuan earthquake became even more **infamous** for exposing the cheap
 
 - *In the process he became the most **celebrated**, or at least most notorious, journalist of his era.* 
 
-  > **celebrated** /ˈsɛlɪbreɪtɪd/ adj. <br> greatly admired; **renowned**: <br>  -  *Van Gogh, perhaps Holland's most celebrated artist, died in poverty.* <br>
+  > **celebrated** /ˈsɛlɪbreɪtɪd/ adj. <br> greatly admired; **renowned**: 
   >
-  > **SYN** **renowned** /rɪˈnaʊnd/ adj. <br> known or talked about by many people; famous: <br>  - *He was gifted with his hands and was renowned for the quality of his building work.* <br>  - *Most world-famous cities have an equally renowned river flowing through them.* <br>  - *William would follow in his father's footsteps and also become an renowned architect.* 
+  > - *Van Gogh, perhaps Holland's most celebrated artist, died in poverty.* <br>
+  >
+  > **SYN** **renowned** /rɪˈnaʊnd/ adj. <br> known or talked about by many people; famous: 
+  >
+  > - *He was gifted with his hands and was renowned for the quality of his building work.* 
+  > - *Most world-famous cities have an equally renowned river flowing through them.* 
+  > - *William would follow in his father's footsteps and also become an renowned architect.* 
 
 - *Predicting the future is notoriously difficult. (New Concept English)*
 - *However, communist-run states such as the Soviet Union and China became notorious for repression and human rights abuses. ([BBC](http://www.bbc.com/news/world-europe-44009621))*
