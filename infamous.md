@@ -2,7 +2,7 @@
 
 ---
 
-The 2008 Sichuan earthquake became even more **infamous** for exposing the cheap and inferior construction methods used in schools across the region, which left thousands of children dead and injured. ([*The Atalantic*][https://www.theatlantic.com/photo/2018/05/10-years-since-the-devastating-2008-sichuan-earthquake/560066/])
+The 2008 Sichuan earthquake became even more **infamous** for exposing the cheap and inferior construction methods used in schools across the region, which left thousands of children dead and injured. ([*The Atalantic*](https://www.theatlantic.com/photo/2018/05/10-years-since-the-devastating-2008-sichuan-earthquake/560066/))
 
 ---
 
@@ -38,7 +38,7 @@ The 2008 Sichuan earthquake became even more **infamous** for exposing the cheap
 > **SYN** **renowned** /rɪˈnaʊnd/ adj. <br> known or talked about by many people; famous: <br>  - *He was gifted with his hands and was renowned for the quality of his building work.* <br>  - *Most world-famous cities have an equally renowned river flowing through them.* <br>  - *William would follow in his father's footsteps and also become an renowned architect.*
 
 - *Predicting the future is notoriously difficult. (New Concept English)*
-- *However, communist-run states such as the Soviet Union and China became notorious for repression and human rights abuses. ([BBC][http://www.bbc.com/news/world-europe-44009621])*
+- *However, communist-run states such as the Soviet Union and China became notorious for repression and human rights abuses. ([BBC](http://www.bbc.com/news/world-europe-44009621))*
 
 ---
 
