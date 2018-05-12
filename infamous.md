@@ -42,9 +42,13 @@ The 2008 Sichuan earthquake became even more **infamous** for exposing the cheap
 
   > **celebrated** /ˈsɛlɪbreɪtɪd/ adj. <br> greatly admired; **renowned**: 
   >
-  > - *Van Gogh, perhaps Holland's most celebrated artist, died in poverty.* <br>
+  > - *Van Gogh, perhaps Holland's most celebrated artist, died in poverty.* 
   >
-  > **SYN** **renowned** /rɪˈnaʊnd/ adj. <br> known or talked about by many people; famous: 
+  > ---
+  >
+  > **SYN** 
+  >
+  > **renowned** /rɪˈnaʊnd/ adj. <br> known or talked about by many people; famous: 
   >
   > - *He was gifted with his hands and was renowned for the quality of his building work.* 
   > - *Most world-famous cities have an equally renowned river flowing through them.* 
